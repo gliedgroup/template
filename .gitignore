@@ -1,7 +1,4 @@
-
-data/
-
-
+data/*.dta 
 *.pyc
 *.lyx~
 *.lyx#
