@@ -2,7 +2,7 @@
 
 Usage:
 
-While Starting a new project, first create a new repo at https://github.com/gliedgroup. Let's assume you created a repo at  `gliedgroup/NEW_REPO`. 
+While starting a new project, first create a new repo at https://github.com/gliedgroup. Let's assume you created a repo at  `gliedgroup/NEW_REPO`. 
 
 On you local machine, clone this template repo in your preferred destination. 
 
