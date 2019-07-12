@@ -15,4 +15,4 @@ data/*.dta
 *.toc
 *.out
 *.svn
-*.ipynb
+*~ 
