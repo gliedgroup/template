@@ -9,7 +9,7 @@
 ### Folder Hierarchy
 
 - `code`: Should contain all code modules, keep them organized as needed, all in here.
-- `data`: Keep all data here locally, it might not be feasible to push all data files in Github. If you want to automatically exclude the files that are of `data` types then include the `data extension` to `.gitignore` file.
+- `data`: Keep all data here locally, it might not be feasible to push all data files in Github. If you want to automatically exclude the files that are of `data` types then include the `data extension` to `.gitignore` file. Files with `.dta` extension in `data` folders will not be included by default.
 - `doc` : All necessary data documentation
 - `output`: Shareable results
 - `pub`: Manuscripts/Visualizations etc
